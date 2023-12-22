@@ -61,7 +61,9 @@ stopping_criteria: Criteria for stopping the generation.
 
 ## Acknowledgements
 SJBIT Code Fiesta
+
 Gradio: https://gradio.app/
+
 Hugging Face Transformers: https://huggingface.co/transformers/
 
 <br>
