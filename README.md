@@ -20,8 +20,11 @@ This repository contains our attempt to create an Automated Resume Shortlisting 
 ## Prerequisites
 
 Python 3.12
+
 PyTorch
+
 Gradio
+
 Transformers library
 <br>
 
