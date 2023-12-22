@@ -31,7 +31,7 @@ pip install torch gradio transformers
 `
 <br>
 
-Usage:
+## Usage:
 
 Open your web browser and go to http://localhost:7860 to interact with the chat interface.
 <br>
@@ -43,10 +43,6 @@ You can customize the model by modifying the following lines in the chat_app.py 
 
 `tokenizer = AutoTokenizer.from_pretrained("your-model-name")
 model = AutoModelForCausalLM.from_pretrained("your-model-name", torch_dtype=torch.float16)`
-
-
-<br>
-
 
 <br>
 
