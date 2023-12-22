@@ -39,12 +39,12 @@ Open your web browser and go to http://localhost:7860 to interact with the chat 
 Customizing the Model depending on your hardware capablities
 You can customize the model by modifying the following lines in the chat_app.py file:
 
-
 <br>
-`
-tokenizer = AutoTokenizer.from_pretrained("your-model-name")
-model = AutoModelForCausalLM.from_pretrained("your-model-name", torch_dtype=torch.float16)
-`
+
+`tokenizer = AutoTokenizer.from_pretrained("your-model-name")
+model = AutoModelForCausalLM.from_pretrained("your-model-name", torch_dtype=torch.float16)`
+
+
 <br>
 
 
