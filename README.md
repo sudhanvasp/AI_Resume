@@ -8,12 +8,13 @@
 This repository contains our attempt to create an Automated Resume Shortlisting Assistant using Hugging Face Transformers.
 
 <br>
-#Screenshots
+
+## Screenshots
 
 
 <br>
 
-#Prerequisites
+## Prerequisites
 
 Python 3.12
 PyTorch
@@ -21,7 +22,7 @@ Gradio
 Transformers library
 <br>
 
-#Installation:
+## Installation:
 
 Install the required libraries using the following command:
 
@@ -49,7 +50,7 @@ model = AutoModelForCausalLM.from_pretrained("your-model-name", torch_dtype=torc
 
 <br>
 
-Additional Configuration
+## Additional Configuration
 You can adjust the following parameters in the chat_app.py file to fine-tune the model's behavior:
 <br>
 max_new_tokens: Maximum number of tokens to generate in each response.
@@ -62,10 +63,12 @@ stopping_criteria: Criteria for stopping the generation.
 
 <br>
 
-Acknowledgements
+## Acknowledgements
+SJBIT Code Fiesta
 Gradio: https://gradio.app/
 Hugging Face Transformers: https://huggingface.co/transformers/
+
 <br>
 
-License
+## License
 This project is licensed under the GNU License - see the LICENSE file for details.
