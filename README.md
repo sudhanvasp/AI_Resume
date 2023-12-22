@@ -10,6 +10,8 @@ This repository contains our attempt to create an Automated Resume Shortlisting 
 <br>
 
 ## Screenshots
+[Upload of resumes](https://github.com/sudhanvasp/AI_Resume/blob/main/SJBITsort/Media/Pdf%20Upload.png)
+[Recomendations](https://github.com/sudhanvasp/AI_Resume/blob/main/SJBITsort/Media/Sample%20Output.png)
 
 
 <br>
